@@ -4,7 +4,7 @@ One of the greatest videogames produced by fast-food chain is back, for PC and m
 
 
 # About this Restoration
-This version is a ** non-commercial republication ** designed to make functional again the original site’s layout, gameplay, and humor.
+This version is a ** non-commercial republication ** designed to make functional again the original site’s layout and gameplay.
 
 - All original assets, code, and layout are reused for preservation.
 - No assets are monetized or used commercially.
