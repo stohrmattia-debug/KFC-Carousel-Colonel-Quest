@@ -18,4 +18,6 @@ The original website featured:
 
 
 
-Archival of a defunct historical KFC website. Not affiliated with or endorsed by KFC.
+
+
+
