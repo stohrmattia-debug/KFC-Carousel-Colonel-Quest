@@ -16,4 +16,6 @@ The original website featured:
 - Colonel Quest — an arcade machine with minigames about Colonel Sanders’ life story, playable directly on the site.
 
 
+
+
 Archival of a defunct historical KFC website. Not affiliated with or endorsed by KFC.
