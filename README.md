@@ -1,4 +1,4 @@
-# KFC Carousel Colonel Quest
+# KFC Colonel Quest
 
 One of the greatest videogames produced by fast-food chain is back, for PC and mobile!
 
@@ -11,9 +11,9 @@ This version is a ** non-commercial republication ** designed to make functional
 
 
 # About the Original
-The original *colonelsanders.com* featured:
+The original website featured:
 - Hall of Colonels — a tribute page listing dozens of “Colonel Sanders” variations that represented his life.
-- Colonel Quest — a minigame about Colonel Sanders’ life story, playable directly on the site.
+- Colonel Quest — an arcade machine with minigames about Colonel Sanders’ life story, playable directly on the site.
 
 
 Archival of a defunct historical KFC website. Not affiliated with or endorsed by KFC.
