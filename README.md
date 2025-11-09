@@ -1,6 +1,6 @@
 # KFC Colonel Quest
 
-One of the greatest videogames produced by fast-food chain is back, for PC and mobile!
+One of the greatest videogames produced by a fast-food chain is back, for PC and mobile!
 
 
 # About this Restoration
