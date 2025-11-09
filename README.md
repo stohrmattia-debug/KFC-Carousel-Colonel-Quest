@@ -2,3 +2,5 @@
 
 One of the greatest videogames produced by fast-food chain is back, for PC and mobile!
 
+
+Archival of a defunct KFC website. Not affiliated with or endorsed by KFC.
