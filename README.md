@@ -1,6 +1,6 @@
 # KFC Finger Clickin' Preservation Project (Unofficial)
 
-One of the greatest website of a fast-food chain is back, for PC and mobile!
+ONE OF THE GREATEST WEBSITE OF A FAST-FOOD CHAIN IS BACK, FOR PC AND MOBILE!
 
 
 # About this Project
