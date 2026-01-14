@@ -1,23 +1,27 @@
 # KFC FINGER CLICKIN' PRESERVATION PROJECT (UNOFFICIAL)
 
-ONE OF THE GREATEST WEBSITE OF A FAST-FOOD CHAIN IS BACK, FOR PC AND MOBILE!
+# About this Project
+This repository is a non-commercial digital preservation project dedicated to restoring the 2015 version of colonelsanders.com.
+In 2015, KFC launched a unique interactive experience that combined brand storytelling with retro gaming. Since the original site was decommissioned, many of these digital assets became inaccessible. This project aims to revive the original site's layout and gameplay for historical and educational purposes.
 
+# Key Features of the Original Site
+1. Hall of Colonels: 
+An interactive digital museum that showcases the "many lives" of Harland Sanders. It moves beyond the caricature to tell the story of a man who was a ferryboat entrepreneur, a lawyer, and a lighting salesman before finding success with the Original Recipe.
 
-# ABOUT THIS PROJECT
-This version is a ** non-commercial republication ** designed to make functional again the original site’s layout and gameplay.
+Historical Accuracy: Blends real-life milestones with the stylized branding of the 2015 campaign.
+Visual Narrative: Uses a unique "scrollable" gallery format to display different eras of the Colonel’s life.
 
-- All original assets, code, and layout are reused for preservation.
-- No assets are monetized or used commercially.
+2. Colonel Quest (The Game): 
+The original site featured a series of "historically accurate" (and intentionally ridiculous) minigames that chronicled the Colonel's life before the chicken bucket.
 
+Technical Restoration Details
+Legacy Code Cleanup: Refactoring old JavaScript (CreateJS/EaselJS) to ensure compatibility with modern evergreen browsers.
+Asset Redirection: Fixing broken internal links and "hard-coded" URLs that originally pointed to the now-defunct colonelsanders.com domain.
+Mobile Optimization: Restoring the touch-controls for the "Colonel Quest" game to make it playable on smartphones.
 
-# ABOUT THE ORIGINAL
-The original website featured and now features again:
-- The Hall of Colonels — an historically accurate web tribute page of Colonel Sanders, with included videos and images that show his life.
-- Colonel Quest — an arcade machine with comical minigames about the Colonel's life and rise of his chicken empire, playable directly on the site.
-
-
-# DISCLAIMER
-This project is a non-commercial, community-led archival effort. It is not affiliated with, endorsed by, or sponsored by KFC Corporation or Yum! Brands. All original assets, including trademarks and copyrighted characters, are the property of their respective owners. This repository exists solely for digital preservation and educational purposes.
+# Legal Disclaimer
+Notice: This project is NOT affiliated with, authorized, maintained, sponsored, or endorsed by KFC Corporation, Yum! Brands, or any of its affiliates.
+All trademarks, service marks, trade names, and copyrights (including the "Colonel Sanders" likeness, "Finger Lickin' Good" slogan, and game assets) are the property of their respective owners. This repository is intended for archival, preservation, and educational purposes only under Fair Use principles. No assets are being monetized or used for commercial gain.
 
 
 
