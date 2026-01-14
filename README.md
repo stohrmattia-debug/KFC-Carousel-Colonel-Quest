@@ -6,7 +6,7 @@ In 2015, KFC launched a unique interactive experience that combined brand storyt
 
 # Key Features of the Original Site
 1. Hall of Colonels: 
-An interactive digital museum that showcases the "many lives" of Harland Sanders. It moves beyond the caricature to tell the story of a man who was a ferryboat entrepreneur, a lawyer, and a lighting salesman before finding success with the Original Recipe.
+An interactive digital museum that showcases the "many lives" of Harland Sanders. It moves beyond the caricature to tell the story of a man who was a laborer, a horse-drawn carriage painter, a steam engine stoker and a petrol station manager before finding success with his Original Recipe.
 
 Historical Accuracy: Blends real-life milestones with the stylized branding of the 2015 campaign.
 Visual Narrative: Uses a unique "scrollable" gallery format to display different eras of the Colonel’s life.
