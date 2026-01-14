@@ -5,16 +5,16 @@ This repository is a non-commercial digital preservation project dedicated to re
 In 2015, KFC launched a unique interactive experience that combined brand storytelling with retro gaming. Since the original site was decommissioned, many of these digital assets became inaccessible. This project aims to revive the original site's layout and gameplay for historical and educational purposes.
 
 # Key Features of the Original Site
-1. Hall of Colonels: 
+# Hall of Colonels: 
 An interactive digital museum that showcases the "many lives" of Harland Sanders. It moves beyond the caricature to tell the story of a man who was a laborer, a horse-drawn carriage painter, a steam engine stoker and a petrol station manager before finding success with his Original Recipe.
 
 Historical Accuracy: Blends real-life milestones with the stylized branding of the 2015 campaign.
 Visual Narrative: Uses a unique "scrollable" gallery format to display different eras of the Colonel’s life.
 
-2. Colonel Quest (The Game): 
+# Colonel Quest (The Game): 
 The original site featured a series of "historically accurate" (and intentionally ridiculous) minigames that chronicled the Colonel's life before the chicken bucket.
 
-Technical Restoration Details
+# Technical Restoration Details
 Legacy Code Cleanup: Refactoring old JavaScript (CreateJS/EaselJS) to ensure compatibility with modern evergreen browsers.
 
 Asset Redirection: Fixing broken internal links and "hard-coded" URLs that originally pointed to the now-defunct colonelsanders.com domain.
