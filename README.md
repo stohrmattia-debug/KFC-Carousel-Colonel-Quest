@@ -1,6 +1,6 @@
-# KFC Colonel Quest
+# KFC Finger Clickin' Preservation Project (Unofficial)
 
-One of the greatest videogames produced by a fast-food chain is back, for PC and mobile!
+One of the greatest website of a fast-food chain is back, for PC and mobile!
 
 
 # About this Project
@@ -11,12 +11,12 @@ This version is a ** non-commercial republication ** designed to make functional
 
 
 # About the Original
-The original website featured and still features:
-- Hall of Colonels — a tribute page listing dozens of “Colonel Sanders” variations that represents his life.
-- Colonel Quest — an arcade machine with minigames about Colonel Sanders’ life story, playable directly on the site.
+The original website featured and now features again:
+- The Hall of Colonels — an historically accurate web tribute page of Colonel Sanders, with included videos and images that show his life.
+- Colonel Quest — an arcade machine with comical minigames about the Colonel's life and rise of his chicken empire, playable directly on the site.
 
 
-
+Disclaimer: This project is a non-commercial, community-led archival effort. It is not affiliated with, endorsed by, or sponsored by KFC Corporation or Yum! Brands. All original assets, including trademarks and copyrighted characters, are the property of their respective owners. This repository exists solely for digital preservation and educational purposes.
 
 
 
