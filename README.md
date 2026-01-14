@@ -16,7 +16,9 @@ The original site featured a series of "historically accurate" (and intentionall
 
 Technical Restoration Details
 Legacy Code Cleanup: Refactoring old JavaScript (CreateJS/EaselJS) to ensure compatibility with modern evergreen browsers.
+
 Asset Redirection: Fixing broken internal links and "hard-coded" URLs that originally pointed to the now-defunct colonelsanders.com domain.
+
 Mobile Optimization: Restoring the touch-controls for the "Colonel Quest" game to make it playable on smartphones.
 
 # Legal Disclaimer
